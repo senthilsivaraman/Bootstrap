@@ -39,3 +39,10 @@ body{
     padding:5px;
     border-radius: 5px;
 }
+
+#explore-section .fas{
+    color: white;
+    background: black;
+    padding:5px;
+    border-radius: 5px;
+}
