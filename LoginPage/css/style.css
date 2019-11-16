@@ -40,16 +40,16 @@ body{
     border-radius: 5px;
 }
 
-#TC .fas, #Clients .fas {
-    color: white;
-    background: black;
+#accounts .fas {
+    color: blue;
+    background: white;
     padding:5px;
     border-radius: 5px;
 }
 
-#employees .fas{
-    color: blue;
-    background: white;
+#clients .fas, #tc .fas{
+    color: white;
+    background: black;
     padding:5px;
     border-radius: 5px;
 }
