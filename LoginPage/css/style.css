@@ -53,3 +53,12 @@ body{
     padding:5px;
     border-radius: 5px;
 }
+
+ul.list-unstyled a{
+    color: white;
+}
+
+ul.list-unstyled a:hover {
+    color: #007bff;
+    text-decoration: none;
+  }
