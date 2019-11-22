@@ -8,9 +8,6 @@
     }
 }
 
-.text-responsive {
-    font-size: calc(100% + 1.5vw + 1vh);
-  }
 
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -77,11 +74,7 @@ h2:after {
     margin: 0px 0px 20px 3px;
 }
 
-.herotitle2{
-    font-size: 60px;
-    line-height: 1.1;
-    margin: 0px;
-}
+
 
 span.navHead {
     color: rgb(100, 255, 218);
