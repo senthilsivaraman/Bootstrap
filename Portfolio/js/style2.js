@@ -9,4 +9,4 @@ $('.tabs-title2 a').click(function(e){
         listHeight2 = $(this).parent().outerHeight();
         slidingComponent2.css('height',listHeight2);
         slidingComponent2.css('transform', 'translateY('+activePosition2+'px)');
-    });
+    }); 
